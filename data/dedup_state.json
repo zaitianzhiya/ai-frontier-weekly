@@ -1,0 +1,214 @@
+{
+  "events": {
+    "evt:1fadfb4f7255": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Google races to launch Gemini 4 early to catch up with OpenAI and Anthropic"
+    },
+    "evt:999625119145": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Washington seeks first access to frontier AI models over UK testers"
+    },
+    "evt:b8381b428ce7": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "White House reportedly asks OpenAI, Anthropic to withhold AI models from UK"
+    },
+    "evt:bc467ad747ed": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "6 Things to Know About Anthropic's Upcoming IPO"
+    },
+    "evt:c22f09b85e70": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output"
+    },
+    "evt:b875fa8cbf89": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until..."
+    },
+    "evt:b6cfba2881c1": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Manning: World Models Need Causality, Not Pretty Pixels"
+    },
+    "evt:f002d8383fc2": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Dow, S&P 500, Nasdaq Futures Dip As Bond Yields Bite And Trump-Xi Meet Grabs..."
+    },
+    "evt:33955bd12f0c": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Meta (META) Stock Is Up, What You Need To Know"
+    },
+    "evt:d3bd03d3b6ac": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Meta Muse Proves Real Stories Drive AI Downloads"
+    },
+    "evt:aaec698a60d1": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Meta Releases New 'Audio-Only' Glasses To Combat Privacy Concerns"
+    },
+    "evt:e7fec755b63a": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Autonomes Fahren: KI-Chatbots kommen beim Autofahren nicht weit"
+    },
+    "evt:88e9d81f2df5": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "IA \"bajuladora\" pode ampliar a polarização da sociedade"
+    },
+    "evt:360e1fa7e223": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "The Epoch Times Insider Forum—San Francisco Bay Area!"
+    },
+    "evt:d8152eb1b402": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "OpenAI calls for US-led international standards on frontier AI"
+    },
+    "evt:00875d6f00dc": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Who’s Who In The Fight Over Whether AI Will Kill Us"
+    },
+    "evt:222b74b12c17": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Four new AI models just redrew the intelligence-versus-cost frontier"
+    },
+    "evt:d12967e677c8": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Grok 4.7 scores 46 on Intelligence Index, vaulting SpaceXAI into the top 4 AI..."
+    },
+    "evt:c7048a7b18ba": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Claude Opus 5.5 tops the AI intelligence index with a 20% price cut"
+    },
+    "evt:8dfbf4ae6541": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "‘The Other Two’ students in AI photo controversy speak out"
+    },
+    "evt:564a46af493f": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Figure’s Billion-Dollar Physical AI Bet Delivered A 6X Jump In Robot Chore Succe..."
+    },
+    "evt:854cd3c8ea05": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI"
+    },
+    "evt:761214b5abcf": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs"
+    },
+    "evt:b7686f211bca": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Stream Recursion Model (SRM)"
+    },
+    "evt:b7b705a48654": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning"
+    },
+    "evt:efd97c9fab38": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models"
+    },
+    "evt:e5b97a941a6f": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Cognita Imaging wins FDA contract to test LLMs in evaluating radiology AI"
+    },
+    "evt:1b06af6e836d": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "The scariest AI doom scenario you haven’t thought about"
+    },
+    "evt:c84edab8a635": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Why IonQ (IONQ) Is Up 15.5% After NVIDIA Deal And Real-Time Error Correction..."
+    },
+    "evt:3e068b93c89f": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Here’s the Tesla Semi… again"
+    },
+    "evt:0dd360f79321": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Everything is spying on you and there’s no opting out"
+    },
+    "evt:3c55c14eb666": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "25% discount: TechCrunch Disrupt gives IT leaders cutting-edge AI insights"
+    },
+    "evt:3ff2aa5309fd": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth an..."
+    },
+    "evt:565248d3d11b": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt..."
+    },
+    "evt:d4842f64c687": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Artificial Intelligence"
+    },
+    "evt:d4b18514da71": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "[매일 아침 AI 뉴스] Oracle, 1,650억 달러보다 먼저 지면에서 발이 걸리다(9/25)"
+    },
+    "evt:df1a5aa789f5": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "How To Prepare For AI Cybersecurity Attacks"
+    },
+    "evt:1c397721ef55": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Investigating rumor France, Ukraine gave Trump false intelligence to see if it..."
+    },
+    "evt:0bd47c93b8e4": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "First Look: Six Flags (FUN) Launches Flex Pay Amid Deep Stock Sl"
+    },
+    "evt:ba2fb7e45b82": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Reddit, Inc. (RDDT) Latest Stock News & Headlines - Yahoo Finance"
+    },
+    "evt:067250c9ba3b": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "Xing4.0-29B: A Versatile Agentic Large Model That Runs on a Single GPU, Now Officially Released"
+    },
+    "evt:9c6f62cb1023": {
+      "first_seen_week": "2026-W39",
+      "last_seen_week": "2026-W39",
+      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost"
+    }
+  }
+}

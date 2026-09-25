@@ -1,0 +1,28 @@
+# ── AI Frontier Weekly — 关键词配置 ──
+# 说明：分类体系与分类映射在 quality.yml 中定义
+# 本文件的 positive/negative 为未来加权与负向过滤预留（当前版本由分类映射驱动）
+
+# 正向关键词（能力前沿信号，未来用于置信度加权）
+positive:
+  - "frontier model"
+  - "state-of-the-art"
+  - "breakthrough"
+  - "超越人类"
+  - "superhuman"
+  - "AGI"
+  - "new capability"
+  - "autonomous"
+  - "world record"
+  - "首次"
+  - "emergence"
+
+# 负向关键词（噪音信号，未来用于降权/过滤）
+negative:
+  - "crypto"
+  - "blockchain"
+  - "NFT"
+  - "meme"
+  - "promotion"
+  - "广告"
+  - "营销"
+  - "clickbait"

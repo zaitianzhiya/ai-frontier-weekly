@@ -1,0 +1,134 @@
+# ── AI Frontier Weekly — 质量评分与分类配置 ──
+
+# 置信度评分（跨生态独立源交叉验证）
+scoring:
+  tier_1_weight: 40      # Tier 1 源每个 40 分
+  tier_2_weight: 25      # Tier 2 源每个 25 分
+  max_score: 100         # 封顶
+  min_score_for_A: 80    # A 级 = 2 个 Tier1 生态交叉验证
+  min_score_for_B: 60    # B 级 = Tier1 + Tier2 交叉验证
+  min_score_for_C: 30    # C 级 = 单一 Tier1 源确认
+                          # D 级 = 30 以下
+
+# 生态独立性权重（跨源交叉验证用；独立评估机构权重最高，社区传闻最低）
+ecosystem_weights:
+  lab_official: 1.0      # 实验室官方（一手发布，权威但可能有宣传倾向）
+  eval_org: 1.0          # 独立评估机构（第三方验证，最可信）
+  academia: 1.0          # 学术论文（同行评议）
+  benchmark: 0.9         # 基准聚合榜单
+  intl_media: 0.8        # 国际科技媒体
+  cn_media: 0.8          # 中文科技媒体
+  community: 0.7         # 社区聚合（噪音较高）
+  dev_ecosystem: 0.8     # 开发者生态（GitHub 项目热度）
+
+# 质量过滤阈值
+filter:
+  min_title_length: 10     # 标题最短
+  min_desc_length: 30      # 描述最短
+  require_citation: true   # 必须有关联源
+  max_age_days: 14         # 最多 14 天前
+
+# 分类体系（展示顺序即配置顺序）
+categories:
+  - id: "capability_breakthrough"
+    name: "能力突破"
+  - id: "benchmarks"
+    name: "基准与评测"
+  - id: "agents"
+    name: "智能体与自主任务"
+  - id: "science"
+    name: "科学发现"
+  - id: "creative"
+    name: "创造类任务"
+  - id: "robotics"
+    name: "机器人与具身"
+  - id: "efficiency"
+    name: "效率与成本"
+  - id: "safety"
+    name: "安全与对齐"
+  - id: "industry"
+    name: "产业与监管"
+
+# 自动分类关键词映射（标题匹配；ASCII 词按词边界，中文按子串）
+category_mapping:
+  capability_breakthrough:
+    - "state-of-the-art"
+    - "SOTA"
+    - "record"
+    - "超越人类"
+    - "首次"
+    - "first time"
+    - "breakthrough"
+    - "突破"
+    - "new capability"
+  benchmarks:
+    - "benchmark"
+    - "SWE-bench"
+    - "ARC-AGI"
+    - "Humanity's Last Exam"
+    - "HLE"
+    - "GPQA"
+    - "MMLU"
+    - "leaderboard"
+    - "评测"
+    - "bench"
+  agents:
+    - "AI agent"
+    - "agentic"
+    - "autonomous"
+    - "computer use"
+    - "智能体"
+    - "自主"
+    - "browser agent"
+    - "tool use"
+  science:
+    - "protein"
+    - "drug discovery"
+    - "materials"
+    - "math olympiad"
+    - "科学发现"
+    - "蛋白质"
+    - "数学"
+    - "science"
+    - "physics simulation"
+  creative:
+    - "AI video"
+    - "AI film"
+    - "音乐创作"
+    - "text-to-image"
+    - "Sora"
+    - "AI 生成"
+    - "world model"
+    - "创作"
+  robotics:
+    - "humanoid"
+    - "robot"
+    - "机器人"
+    - "具身"
+    - "robotics"
+    - "physical AI"
+  efficiency:
+    - "open source model"
+    - "开源模型"
+    - "推理成本"
+    - "inference cost"
+    - "distillation"
+    - "蒸馏"
+    - "parameter efficient"
+  safety:
+    - "alignment"
+    - "对齐"
+    - "safety"
+    - "red team"
+    - "能力评估"
+    - "eval"
+    - "deception"
+  industry:
+    - "funding"
+    - "融资"
+    - "regulation"
+    - "监管"
+    - "acqui"
+    - "收购"
+    - "data center"
+    - "数据中心"

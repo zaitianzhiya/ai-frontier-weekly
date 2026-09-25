@@ -1,0 +1,45 @@
+# ── Semiconductor Weekly Digest Watchdog ──
+# 3× Monday check → dispatch main workflow if report missing
+name: Watchdog — AI Frontier Dispatch
+
+on:
+  schedule:
+    - cron: '30 13 * * 1'
+    - cron: '30 17 * * 1'
+    - cron: '30 3 * * 2'
+  workflow_dispatch: {}
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Check if weekly report exists
+        id: check
+        run: |
+          WEEK=$(date +%G-W%V)
+          REPORT="output/weekly/${WEEK%%-*}/${WEEK}.md"
+          if [ -f "$REPORT" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "Report already exists for ${WEEK}, nothing to do"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "Report missing for ${WEEK}, dispatching..."
+          fi
+
+      - name: Dispatch weekly workflow
+        if: steps.check.outputs.exists == 'false'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'weekly-digest.yml',
+              ref: 'main',
+            });

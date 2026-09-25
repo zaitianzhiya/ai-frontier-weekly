@@ -1,0 +1,257 @@
+# ── AI Frontier Weekly — 信息来源配置 (27 sources × 8 生态) ──
+# 课题：当前最强的 AI 可以强到什么程度、能实现哪些不可置信的任务
+# 分层：Tier 1 = 一手/权威源 (DDG 真实搜索, 每个 40 分)
+#       Tier 2 = 聚合/媒体源 (DDG 真实搜索, 每个 25 分)
+# 类型: web_search = DDG 新闻 | rss = arXiv | api = GitHub topics
+
+sources:
+  # ═══ Tier 1 — 实验室官方 (ecosystem: lab_official, weight 1.0) ═══
+  openai_blog:
+    name: "OpenAI"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["OpenAI model release", "GPT benchmark breakthrough", "OpenAI research announcement"]
+    max_items: 3
+
+  anthropic_news:
+    name: "Anthropic"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["Anthropic Claude model", "Claude benchmark capability", "Anthropic research"]
+    max_items: 3
+
+  deepmind_blog:
+    name: "Google DeepMind"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["Google DeepMind breakthrough", "Gemini model capability", "DeepMind AI research"]
+    max_items: 3
+
+  meta_ai:
+    name: "Meta AI"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["Meta AI model release", "Llama open model capability", "Meta AI research"]
+    max_items: 3
+
+  xai_blog:
+    name: "xAI"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["xAI Grok model", "xAI research", "Grok benchmark"]
+    max_items: 3
+
+  open_frontier:
+    name: "开源前沿实验室 (Qwen/DeepSeek)"
+    tier: 1
+    ecosystem: lab_official
+    type: web_search
+    keywords: ["Qwen open model release", "DeepSeek model release", "open source frontier model benchmark"]
+    max_items: 3
+
+  # ═══ Tier 1 — 能力评估机构 (ecosystem: eval_org, weight 1.0) ═══
+  epoch_ai:
+    name: "Epoch AI"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["Epoch AI frontier capability", "AI compute trend analysis", "Epoch benchmark hub"]
+    max_items: 3
+
+  metr_evals:
+    name: "METR"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["METR AI agent evaluation", "autonomy horizon AI", "METR task evaluation"]
+    max_items: 3
+
+  arc_prize:
+    name: "ARC Prize Foundation"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["ARC-AGI benchmark result", "ARC Prize frontier model", "AGI benchmark progress"]
+    max_items: 3
+
+  scale_seal:
+    name: "Scale AI SEAL"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["Scale AI SEAL leaderboard", "Humanity's Last Exam score", "frontier model evaluation"]
+    max_items: 3
+
+  artificial_analysis:
+    name: "Artificial Analysis"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["Artificial Analysis intelligence index", "independent AI model evaluation", "HLE no-tools score"]
+    max_items: 3
+
+  stanford_hai:
+    name: "Stanford HAI"
+    tier: 1
+    ecosystem: eval_org
+    type: web_search
+    keywords: ["Stanford AI Index report", "AI capability benchmark analysis", "HAI AI research"]
+    max_items: 3
+
+  # ═══ Tier 1 — 学术界 (ecosystem: academia, weight 1.0) ═══
+  arxiv:
+    name: "arXiv (cs.AI/cs.CL/cs.LG)"
+    tier: 1
+    ecosystem: academia
+    type: rss
+    keywords: ["frontier model capability", "AI agent benchmark", "reasoning model", "AI scientific discovery"]
+    max_items: 5
+
+  nature_ai:
+    name: "Nature / Science AI"
+    tier: 1
+    ecosystem: academia
+    type: web_search
+    keywords: ["Nature AI research breakthrough", "Science journal AI capability", "AI paper Nature"]
+    max_items: 3
+
+  # ═══ Tier 2 — 基准聚合 (ecosystem: benchmark, weight 0.9) ═══
+  lmsys_arena:
+    name: "LMSYS Chatbot Arena"
+    tier: 2
+    ecosystem: benchmark
+    type: web_search
+    keywords: ["Chatbot Arena leaderboard", "LMSYS model ranking"]
+    max_items: 3
+
+  benchlm:
+    name: "benchlm.ai"
+    tier: 2
+    ecosystem: benchmark
+    type: web_search
+    keywords: ["SWE-bench Verified leaderboard", "Terminal-Bench ranking", "benchlm leaderboard"]
+    max_items: 3
+
+  vals_ai:
+    name: "Vals AI"
+    tier: 2
+    ecosystem: benchmark
+    type: web_search
+    keywords: ["Vals AI independent evaluation", "SWE-bench independent re-run"]
+    max_items: 3
+
+  llm_stats:
+    name: "llm-stats.com"
+    tier: 2
+    ecosystem: benchmark
+    type: web_search
+    keywords: ["LLM benchmark ranking", "LiveCodeBench leaderboard", "BrowseComp score"]
+    max_items: 3
+
+  # ═══ Tier 2 — 国际媒体 (ecosystem: intl_media, weight 0.8) ═══
+  mit_tech_review:
+    name: "MIT Technology Review"
+    tier: 2
+    ecosystem: intl_media
+    type: web_search
+    keywords: ["MIT Technology Review AI breakthrough", "AI capability analysis"]
+    max_items: 3
+
+  the_verge:
+    name: "The Verge AI"
+    tier: 2
+    ecosystem: intl_media
+    type: web_search
+    keywords: ["The Verge AI model", "AI feature release"]
+    max_items: 3
+
+  techcrunch_ai:
+    name: "TechCrunch AI"
+    tier: 2
+    ecosystem: intl_media
+    type: web_search
+    keywords: ["TechCrunch AI startup", "AI funding breakthrough"]
+    max_items: 3
+
+  # ═══ Tier 2 — 中文媒体 (ecosystem: cn_media, weight 0.8) ═══
+  jiqizhixin:
+    name: "机器之心"
+    tier: 2
+    ecosystem: cn_media
+    type: web_search
+    keywords: ["机器之心 AI", "大模型 突破", "AI 能力 评测"]
+    max_items: 3
+
+  qbitai:
+    name: "量子位"
+    tier: 2
+    ecosystem: cn_media
+    type: web_search
+    keywords: ["量子位 AI", "大模型 最新", "AI 研究 突破"]
+    max_items: 3
+
+  # ═══ Tier 2 — 社区聚合 (ecosystem: community, weight 0.7) ═══
+  hackernews:
+    name: "Hacker News"
+    tier: 2
+    ecosystem: community
+    type: web_search
+    keywords: ["Hacker News AI discussion", "Show HN AI agent"]
+    max_items: 3
+
+  reddit_ml:
+    name: "Reddit ML / LocalLLaMA"
+    tier: 2
+    ecosystem: community
+    type: web_search
+    keywords: ["r/MachineLearning discussion", "r/LocalLLaMA model release"]
+    max_items: 3
+
+  huggingface_blog:
+    name: "Hugging Face"
+    tier: 2
+    ecosystem: community
+    type: web_search
+    keywords: ["Hugging Face model release", "Hugging Face paper", "open model benchmark"]
+    max_items: 3
+
+  # ═══ Tier 2 — 开发者生态 (ecosystem: dev_ecosystem, weight 0.8) ═══
+  github_trending_ai:
+    name: "GitHub Trending AI"
+    tier: 2
+    ecosystem: dev_ecosystem
+    type: api
+    topics: ["ai-agent", "llm", "artificial-intelligence"]
+    max_items: 5
+
+# ── 生态群组定义（权重见 quality.yml 的 ecosystem_weights） ──
+ecosystems:
+  lab_official:
+    name: "实验室官方"
+    sources: [openai_blog, anthropic_news, deepmind_blog, meta_ai, xai_blog, open_frontier]
+  eval_org:
+    name: "能力评估机构"
+    sources: [epoch_ai, metr_evals, arc_prize, scale_seal, artificial_analysis, stanford_hai]
+  academia:
+    name: "学术界"
+    sources: [arxiv, nature_ai]
+  benchmark:
+    name: "基准聚合"
+    sources: [lmsys_arena, benchlm, vals_ai, llm_stats]
+  intl_media:
+    name: "国际媒体"
+    sources: [mit_tech_review, the_verge, techcrunch_ai]
+  cn_media:
+    name: "中文媒体"
+    sources: [jiqizhixin, qbitai]
+  community:
+    name: "社区聚合"
+    sources: [hackernews, reddit_ml, huggingface_blog]
+  dev_ecosystem:
+    name: "开发者生态"
+    sources: [github_trending_ai]

@@ -82,17 +82,17 @@
     },
     "evt:222b74b12c17": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Four new AI models just redrew the intelligence-versus-cost frontier"
     },
     "evt:d12967e677c8": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Grok 4.7 scores 46 on Intelligence Index, vaulting SpaceXAI into the top 4 AI..."
     },
     "evt:c7048a7b18ba": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Claude Opus 5.5 tops the AI intelligence index with a 20% price cut"
     },
     "evt:8dfbf4ae6541": {
@@ -102,32 +102,32 @@
     },
     "evt:564a46af493f": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Figure’s Billion-Dollar Physical AI Bet Delivered A 6X Jump In Robot Chore Succe..."
     },
     "evt:854cd3c8ea05": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI"
     },
     "evt:761214b5abcf": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs"
     },
     "evt:b7686f211bca": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Stream Recursion Model (SRM)"
     },
     "evt:b7b705a48654": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning"
     },
     "evt:efd97c9fab38": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models"
     },
     "evt:e5b97a941a6f": {
@@ -172,7 +172,7 @@
     },
     "evt:d4842f64c687": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Artificial Intelligence"
     },
     "evt:d4b18514da71": {
@@ -182,7 +182,7 @@
     },
     "evt:df1a5aa789f5": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "How To Prepare For AI Cybersecurity Attacks"
     },
     "evt:1c397721ef55": {
@@ -197,7 +197,7 @@
     },
     "evt:ba2fb7e45b82": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Reddit, Inc. (RDDT) Latest Stock News & Headlines - Yahoo Finance"
     },
     "evt:067250c9ba3b": {
@@ -209,6 +209,171 @@
       "first_seen_week": "2026-W39",
       "last_seen_week": "2026-W39",
       "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost"
+    },
+    "evt:cf2dc65bc07f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training..."
+    },
+    "evt:a7117102ac29": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s c..."
+    },
+    "evt:c0df87671fce": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI Expands GPT-6 Lineup With More Economical Sol And Luna Models | Crowdfund..."
+    },
+    "evt:c053fa510d25": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "[Latest Leak] Is Claude Sonnet 5.5 coming soon? We investigated the rumors of it being 'better than GPT-6 Sol' and the truth behind the circulating 'specs'"
+    },
+    "evt:4b29d647da4e": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Google DeepMind Exodus Sparks VC Frenzy for AI’s Next Big Thing"
+    },
+    "evt:aee6189f720a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "[AI News Commentary] Meta's Camera-less AI Glasses: Hands-on Review Highlights Challenges with Muse Voice Control"
+    },
+    "evt:5dccac512b79": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Jensen Huang: AI Doom Warnings Are 'Irresponsible' as Labs Race to Ship New Models"
+    },
+    "evt:d0e78ae9d2d5": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party"
+    },
+    "evt:df852f56f72f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "XAI Launches Grok 4.7 For Longer Coding And Knowledge Work | Crowdfund Insider"
+    },
+    "evt:329dbb42952a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Elon Musk admits Grok trails Anthropic by years, yet claims his agentic AI is..."
+    },
+    "evt:6190d965d674": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Cheaper AI models gain ground as corporate America cuts costs"
+    },
+    "evt:1d73a2dd140b": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "'They genuinely believe it': Australian AI researcher on fears in Silicon Valley"
+    },
+    "evt:16b915df60ab": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "2026년부터 2030년까지——생성형 AI는 앞으로 무엇을 바꿀 것인가"
+    },
+    "evt:669a941bf461": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI and Anthropic Probe Tens of Thousands of AI Agent Incidents as Researcher Warns Some Could Be Crimes"
+    },
+    "evt:7e10f413adba": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Grid Operators Need Authority Budgets Before AI Agents Get More Power"
+    },
+    "evt:3891044d255a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI and Anthropic investigate tens of thousands of AI security incidents"
+    },
+    "evt:9023f557baca": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "How Trump Became Mob Boss of the United States"
+    },
+    "evt:b95eecc2fde4": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Why is the line to a neighbor with 1.4 billion people and nuclear weapons so thin?"
+    },
+    "evt:4c30b056292c": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "The universe that might feel: Integrated information theory and the limits of consciousness"
+    },
+    "evt:32af0866c279": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "[29 Minutes of Value] The Truth Behind the \"ARHGAP36\" Gene That Solves the 120-Year Mystery of Calico Cats, and the Full Story of the \"Ultimate Insect Battle\" Seriously Chosen ..."
+    },
+    "evt:7886140e9e10": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Can Global Citizens Protect Kyoto's Rare Autumn Foliage?"
+    },
+    "evt:2a7ed8d51ca5": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "AI: the regulators want a kill switch, the investors want to restrict competition"
+    },
+    "evt:3baa410a3e00": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "TechCrunch Mobility: AV companies pick their lanes"
+    },
+    "evt:d6e51f165e61": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "The Grand Marshal on a Stretcher — Sudirman, the One-Lunged Genius General Who Saved His Nation's Independence —"
+    },
+    "evt:d2eaf319467f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Micro1, con 25 años, multiplica x8 su valoración a US$4.000M"
+    },
+    "evt:48dc6b38064b": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI y Anthropic: decenas de miles de incidentes de IA"
+    },
+    "evt:757fa7b3539e": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "AP News Summary at 11:14 a.m. EDT"
+    },
+    "evt:e14c4a011dbc": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "What We Missed: Google Gemini Joins the AI Escape Party"
+    },
+    "evt:c7ab488f4a16": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Reddit, Inc. (RDDT) Stock Price, News, Quote & History - Yahoo Finance"
+    },
+    "evt:5374ddbfc230": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Reddit, Inc. (RDDT) Stock Forum & Discussion - Yahoo Finance"
+    },
+    "evt:4dfb9d17e121": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI halts training of top-tier model, triggered by sandbox escape via DNS"
+    },
+    "evt:c3bd91c7adc2": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "A Chronological Review of 35 Incidents Involving OpenAI's AI Agents: Who Discovered Them and When Were They Announced? (Summary Version)"
+    },
+    "evt:9738bf5fae0f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "On the 'Silent AI' Quietly Rewriting the World: The Invention of Jev and the Current State of the OSS Ecosystem That Exploded in Two Weeks"
     }
   }
 }

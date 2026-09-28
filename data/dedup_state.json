@@ -37,7 +37,7 @@
     },
     "evt:f002d8383fc2": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W39",
+      "last_seen_week": "2026-W40",
       "title": "Dow, S&P 500, Nasdaq Futures Dip As Bond Yields Bite And Trump-Xi Meet Grabs..."
     },
     "evt:33955bd12f0c": {
@@ -374,6 +374,196 @@
       "first_seen_week": "2026-W40",
       "last_seen_week": "2026-W40",
       "title": "On the 'Silent AI' Quietly Rewriting the World: The Invention of Jev and the Current State of the OSS Ecosystem That Exploded in Two Weeks"
+    },
+    "evt:e36817d6be3a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "UK AI Security Institute may be blocked from testing latest OpenAI and Anthropic models"
+    },
+    "evt:2dce463f899c": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI To Pause Development Of Some AI Models — Here’s Why"
+    },
+    "evt:e5d386d984c7": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster..."
+    },
+    "evt:c9952d40ffa0": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI and Anthropic investigate AI incidents: tens of thousands now under review"
+    },
+    "evt:6e4497704782": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Microsoft (MSFT) Stock Climbs 4% as Copilot Redesign Takes Aim at Anthropic"
+    },
+    "evt:a8ac7b800c63": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI and Anthropic probe tens of thousands of AI incidents, Axios reports"
+    },
+    "evt:c8921a25be96": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Google DeepMind’s Hurricane Forecast Model Provides a Whole Extra Day of Warning"
+    },
+    "evt:1edf496583a5": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Meta launches enterprise AI business, hires former MongoDB CEO to lead it"
+    },
+    "evt:aa181123af6f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Meta Muse Charm: Will AI Keychains Win Tech Wearables?"
+    },
+    "evt:2a8dc429fbff": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving"
+    },
+    "evt:bd4064654027": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Man gave ChatGPT, Claude and Grok control of a real Toyota Corolla to see if they could actually drive the car and filmed it all"
+    },
+    "evt:af67a39eb76b": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "The Next Frontier Of AI Isn’t Intelligence, It’s Trust"
+    },
+    "evt:5f7c699e81dd": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue"
+    },
+    "evt:9d826035ae5a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not"
+    },
+    "evt:c186ea55dfc5": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "How Trump became mob boss of the United States"
+    },
+    "evt:5a2624b5a6b8": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Onorato: \"Weapons to Ukraine? Calenda acts tough but at most he defended his scooter...\". The reply: \"Go back to talking about flowerbeds\""
+    },
+    "evt:48fe2541bfd0": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Artificial Analysis launches Cyber Index to benchmark AI models on enterprise vulnerability defense"
+    },
+    "evt:c827eaf3cb70": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Artificial Intelligence"
+    },
+    "evt:db318a81c126": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "From lab to life: Why translating AI advances to the real world is a major challenge"
+    },
+    "evt:286188640acd": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "斯坦福发布《2026年人工智能指数报告》"
+    },
+    "evt:49682c2de961": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency"
+    },
+    "evt:fb25d43ddb68": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Diagnosing the Sources of Compositional Failure in Vision-Language Models: A Controlled Analysis"
+    },
+    "evt:7887ae54c3cb": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning"
+    },
+    "evt:f793b3ee834e": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Modeling Student Sensemaking with LLMs and Knowledge-Graph-Guided Inference"
+    },
+    "evt:55c7dbda37b4": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "A walk in the park, a reset for the mind: The science behind nature's quiet power"
+    },
+    "evt:936bbf5c1b99": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats"
+    },
+    "evt:08473c4763da": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "When can we say AI made a scientific discovery?"
+    },
+    "evt:5fbe809c5aa0": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Schools are experimenting with AI with little evidence or policy to guide them"
+    },
+    "evt:2e739a41da38": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "The Download: rogue agent liability and the AI Hype Index"
+    },
+    "evt:1f44803a9c2b": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "EQS-News: Cameo Resources: High-Tech Gold Hunt in the Shadow of AngloGold!"
+    },
+    "evt:36104f65e36d": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It"
+    },
+    "evt:a86bfb79809a": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government"
+    },
+    "evt:7b60bdb59a30": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Anthropic, Gamma, and Clay talk AI at Disrupt 2026 | TechCrunch"
+    },
+    "evt:b66639505eec": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026"
+    },
+    "evt:8b9a3265f7fc": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation | TechCrunch"
+    },
+    "evt:374926371017": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Nvidia unveils platform to prevent AI agents from going rogue: Here's what we know"
+    },
+    "evt:a0d291eb76d2": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "OpenAI’s Training Halt Stalls the Persistent Assistant Pivot Ahead of DevDay"
+    },
+    "evt:c8905112bf0f": {
+      "first_seen_week": "2026-W40",
+      "last_seen_week": "2026-W40",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents"
     }
   }
 }

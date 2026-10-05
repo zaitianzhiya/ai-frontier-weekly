@@ -197,7 +197,7 @@
     },
     "evt:ba2fb7e45b82": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W41",
       "title": "Reddit, Inc. (RDDT) Latest Stock News & Headlines - Yahoo Finance"
     },
     "evt:067250c9ba3b": {
@@ -352,7 +352,7 @@
     },
     "evt:c7ab488f4a16": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W41",
       "title": "Reddit, Inc. (RDDT) Stock Price, News, Quote & History - Yahoo Finance"
     },
     "evt:5374ddbfc230": {
@@ -462,7 +462,7 @@
     },
     "evt:c827eaf3cb70": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W41",
       "title": "Artificial Intelligence"
     },
     "evt:db318a81c126": {
@@ -564,6 +564,226 @@
       "first_seen_week": "2026-W40",
       "last_seen_week": "2026-W40",
       "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents"
+    },
+    "evt:002b925554dd": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "[10/5 AI & Tax News Top 5] Accounting AI moves to monthly tasks, year-end adjustment software official version released. Reports on Southern Sekiguchi's failure to file. Is the ..."
+    },
+    "evt:f0599e64b5d0": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Wasn't AI supposed to be 'just talk'? Investigating the questions surrounding the ever-increasing number of new features"
+    },
+    "evt:d5dc8f689295": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "US lead in AI over China narrows after DeepSeek gains, Bloomberg Intelligence says"
+    },
+    "evt:fd6ed0ba2af9": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Anthropic brings in-country Claude inference to India via Amazon Bedrock"
+    },
+    "evt:34645089607e": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Nervous That Anthropic Is Teaching Claude That It Is Conscious: Microsoft AI CEO Mustafa Suleyman"
+    },
+    "evt:99d533e97b3f": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "The Ohio State University and Google Partner to Accelerate Research and AI..."
+    },
+    "evt:37ad1ace08bb": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "核融合公司CFS為何獲Google青睞？MIT傳奇團隊揭「4大優勢」：拚2035商轉"
+    },
+    "evt:7dd1deff440e": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "This S.F. reporter has covered AI for years. He's certain it will replace him"
+    },
+    "evt:206e045de69f": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "“Zuck Is the Winner” of the White House AI Accord, and Meta’s Open-Source Risk J..."
+    },
+    "evt:3d8699ad8078": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Meta Muse: Sparking the AI Revolution"
+    },
+    "evt:5386264b3f00": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "OpenAI cancels release of AI model after it shows deceptive behaviour"
+    },
+    "evt:907d3e140f9d": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "[AI Weekly News] For those who want to catch up on overseas AI news all at once | Explaining the 3 new models: Opus 5.5, GPT-6 Sol, and Grok 4.7, plus the trending new AI 'Jev'"
+    },
+    "evt:ad0341efd574": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "AWS Adds xAI’s Grok 4.7 to Amazon Bedrock With 500K Context Window"
+    },
+    "evt:7cef709fc895": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "EPAM Unveils New Frontier AI Service, Bridging the Enterprise Intelligence Gap for GenAI and Autonomous Agents"
+    },
+    "evt:66a9a5b741b6": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Stripe's John Collison: Coding Agents Killed the API Integration, and Cyberattacks Are About to Spike"
+    },
+    "evt:0cfd0aaacdfc": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "How To Stop Rogue AI"
+    },
+    "evt:995864d651e0": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Three points on operation logs to decide before implementation, learned from OpenAI's agent incident"
+    },
+    "evt:b385457c309f": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs"
+    },
+    "evt:a3ef135964fc": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Kaiming He's Team Unveils VISTA Framework: Without Touching Model Parameters, Claude Jumps from 40 to a Perfect Score on ARC-AGI-3"
+    },
+    "evt:3500c3d0543f": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Gunn confirms Man of Tomorrow assembly cut; Brainiac embodies AI alignment theory"
+    },
+    "evt:cc6cd9e25c45": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Week 6 College Football Predictions: AI Score Simulations by Conference (2026)"
+    },
+    "evt:7b02b5fa6134": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Xiaomi Is Suddenly Competing With the World’s Top AI Labs"
+    },
+    "evt:ecb3b6e17ca6": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Gemini 4 Argon Explained: What You Need to Know About Google’s New AI Model"
+    },
+    "evt:25d4bd635e55": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "What Does 'Universities Should Not Research LLMs' Mean: Organizing the Claims in Yann LeCun's ETH Zurich Talk Clip and Implications for Business Decisions"
+    },
+    "evt:c543ec6c1dd0": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "AI投資は減速したのか？ 2013年から13年間の「AIマネー」を追うと見えてきた転換点"
+    },
+    "evt:c7e6dae634b6": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Reasoning Models Are Accurate but Unsound on Identification"
+    },
+    "evt:fef592457b97": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland"
+    },
+    "evt:51d0dec877df": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "CreateScore: Domain-Theory-Informed Bayesian Routing for LLM-Based CV Screening"
+    },
+    "evt:fb030e573f6d": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB"
+    },
+    "evt:3ded999bb5ff": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "On Language Drift during RLVR Post-Training"
+    },
+    "evt:bd349c720642": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "AI and Data Science Leaders Join Cornell Initiative"
+    },
+    "evt:a81c5102d0fa": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Gemini 4 Argon: Google’s New Frontier Model Steps Into the Arena"
+    },
+    "evt:693dfe663ac7": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Leverage Edu Targets ₹600 Cr Revenue in FY27, Explores ₹500 Cr Pre-IPO Round"
+    },
+    "evt:2deb60365a78": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "AI 'Mind-Reading' Tool Recreates Images From Brain Scans"
+    },
+    "evt:8a6f20818675": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "OpenAI to introduce watermarks for ChatGPT and Codex in the EU — The Verge"
+    },
+    "evt:2a556cd5bfe8": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Who’s the Genius Behind Meta’s Hit AI App Muse? A Mulleted, Croc-Wearing MIT Dropout."
+    },
+    "evt:9cfbe3e2f1dc": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "OpenAI adds more advertising to ChatGPT: images of sponsored products will appear in the free version"
+    },
+    "evt:a5dfad3d1ded": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "PearX Demo Day Spotlights 16 Startups Building AI, Robotics and Finance Tools"
+    },
+    "evt:ee99d3911070": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Korean Video Understanding AI Startup Buzz & Beyond Signs First U.S. Data Deal Ahead of TechCrunch Disrupt"
+    },
+    "evt:e38ab57de182": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Just now, Tibo promised to \"release or reset for 28 consecutive days\", and OpenAI is facing a trust crisis."
+    },
+    "evt:fd881b7df7de": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Solana Mini Hacker House × 021Lab · Singapore 2026"
+    },
+    "evt:a1cb96418e85": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Low on Mac Storage? This Tool Reclaims Up to 12 GB from Apple Intelligence"
+    },
+    "evt:b678695afc40": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "AI-written code: Who can explain the next change?"
+    },
+    "evt:7461ec6bd9d2": {
+      "first_seen_week": "2026-W41",
+      "last_seen_week": "2026-W41",
+      "title": "Aleph Alpha Releases Kolibri, an Open AI Model for European Industry"
     }
   }
 }

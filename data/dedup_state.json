@@ -172,7 +172,7 @@
     },
     "evt:d4842f64c687": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W42",
       "title": "Artificial Intelligence"
     },
     "evt:d4b18514da71": {
@@ -462,7 +462,7 @@
     },
     "evt:c827eaf3cb70": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W41",
+      "last_seen_week": "2026-W42",
       "title": "Artificial Intelligence"
     },
     "evt:db318a81c126": {
@@ -784,6 +784,196 @@
       "first_seen_week": "2026-W41",
       "last_seen_week": "2026-W41",
       "title": "Aleph Alpha Releases Kolibri, an Open AI Model for European Industry"
+    },
+    "evt:2040cf2e6533": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Hugging Face Turns OpenAI’s 300+ Math Proofs Into Open-Source RL Environments For Training AI Models"
+    },
+    "evt:cfe2a9ccb091": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "OpenAI’s GPT-6 may lead to robotics breakthrough as soon as next year: Unitree founder"
+    },
+    "evt:0eacefda4fd3": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "UK regains access to AI models after White House lifts 17-day freeze"
+    },
+    "evt:63b696a02813": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Anthropic’s AI Submitted a Fake Tip in an Unsolved Murder Case"
+    },
+    "evt:f7f19c1f6087": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Anthropic Bars Claude From Arrest Calls in 31 Days [2026]"
+    },
+    "evt:6105238000f1": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Microsoft Calls for AI Emergency Brakes After Anthropic Model Sends Fake Police Report"
+    },
+    "evt:1ab1cfdfa6e2": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Google Unveils 'Playground,' Brings AI Gaming To 'Tens Of Millions' Creators"
+    },
+    "evt:074115462a3a": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Google DeepMind's Lila Ibrahim on balancing AI innovation and safety"
+    },
+    "evt:5dc7f812b0d8": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon"
+    },
+    "evt:c6cc0161c34d": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Meta Launches Muse Wonder & Wonder Full AI to Rival ChatGPT, Claude"
+    },
+    "evt:c9fbfbabd1c6": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Meta launches Muse Wonder frontier AI models for coding and agent use"
+    },
+    "evt:b8756a1de54a": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "SpaceXAI's Grok: What's Free In 2026 And What Isn't?"
+    },
+    "evt:7d07f568d750": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "AI Price Prediction: Insights from Grok on Bitcoin's Potential by Election Day"
+    },
+    "evt:245ffb54428e": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Elon Musk confirms SpaceXAI is rebranding as SpaceXSI for Superintelligence"
+    },
+    "evt:e8e4f4f1cc22": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Mistral Large 4 scores 38 on the Intelligence Index, putting Europe back on the..."
+    },
+    "evt:90b7f9ce32f2": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Ling 3.1 Flash scores 41 on the Intelligence Index with just 25B active..."
+    },
+    "evt:e2b333f162af": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention"
+    },
+    "evt:930ec75a1d26": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models"
+    },
+    "evt:baab0ca63f24": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "SWE-Critix: Post-Training Generalist Verifiers for Assessing Coding-Agent Trajectories"
+    },
+    "evt:a151f091fd2e": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "SEEDS: Preview-Guided Evidence Admission for Search Agents"
+    },
+    "evt:4a199d71c0f3": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "REDaCT: Collapse-Free Unlearning in Large Reasoning Models"
+    },
+    "evt:e84e9c9a0801": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "University of Potsdam Researchers Help Trace Unexpected Heat Patterns in Deeply Subducted Eclogite"
+    },
+    "evt:bbc552c71026": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Immorta Bio Pioneers AI-Designed Senolytic Immunotherapy Targeting Diseases of Aging"
+    },
+    "evt:71178c33ffbe": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "AI Cloud Outages—Yandex's New Shutdown, and Developments in Mac Voice Input and Safety Evaluations"
+    },
+    "evt:2e4db95069fe": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "They told the world AI was dangerous. Now Trump’s allies are coming for them."
+    },
+    "evt:fdbe8bea051d": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Anthropic’s announcement of a ‘Claude-led’ CRISPR-like discovery is sparking con..."
+    },
+    "evt:2f70ee0997ed": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Meta Unveils New Series of Advanced A.I. Models"
+    },
+    "evt:72130fdf9c49": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Surface Laptop Ultra: $2,599 AI PC That Runs Large Models Locally"
+    },
+    "evt:db19a846fada": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Banks Struggle to Digest the Mounting Debt Driving the AI Boom | naked..."
+    },
+    "evt:ad4a47991847": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model"
+    },
+    "evt:c27523d7ec66": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes |..."
+    },
+    "evt:fb889a83f12d": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know"
+    },
+    "evt:1985eb4fa397": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks"
+    },
+    "evt:ed8b37642e95": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Aktuelle Situation der KI im Silicon Valley: Wer über Rechenkapazität verfügt, hat das Sagen"
+    },
+    "evt:f4107e2f5761": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Tourist police reach out to Russian Embassy to inform tourists visiting Thailand about laws and customs"
+    },
+    "evt:993bad0842a6": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Hugging Face Hack: Lessons for Cyber Defenders"
+    },
+    "evt:7107a4130ad5": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "Microsoft CEO Wants An Emergency Brake On Every AI Model"
+    },
+    "evt:47f038bd786f": {
+      "first_seen_week": "2026-W42",
+      "last_seen_week": "2026-W42",
+      "title": "How I Built 6 AI Models in Just a Weekend: The Untold Behind-the-Scenes Story"
     }
   }
 }

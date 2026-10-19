@@ -502,7 +502,7 @@
     },
     "evt:936bbf5c1b99": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W43",
       "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats"
     },
     "evt:08473c4763da": {
@@ -974,6 +974,196 @@
       "first_seen_week": "2026-W42",
       "last_seen_week": "2026-W42",
       "title": "How I Built 6 AI Models in Just a Weekend: The Untold Behind-the-Scenes Story"
+    },
+    "evt:0046fe3af9f9": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "OpenAI Tests 3 Aurora Models Focused on Generating Images"
+    },
+    "evt:c3aa700c46ab": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "OpenAI CFO explains why major AI model release is on hold"
+    },
+    "evt:4622c4145fad": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Just now, three new OpenAI models were briefly launched online late at night."
+    },
+    "evt:aae5b0865bdb": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "After reading Anthropic's internal work report, I really feel deeply worried for fresh graduates."
+    },
+    "evt:5ad671c564f3": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "AI black box breakthrough divides Silicon Valley"
+    },
+    "evt:df079b18b731": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "“Suddenly Meta Is in Second Place” in AI, and Unlike OpenAI It Doesn’t Need the ..."
+    },
+    "evt:5b616bf82af5": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Meta wants you to run its powerful new AI model on your desktop, but there’s a c..."
+    },
+    "evt:71b67a18e694": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Meta Claims Frontier-Class AI Status With New Muse Wonder Models"
+    },
+    "evt:5ed2eabe1657": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "xAI Introduces Grok Voice 3.0 Speech-to-Speech Model for Voice Agents"
+    },
+    "evt:5896322fef82": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech..."
+    },
+    "evt:49e31bcd1877": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "SpaceX Bundles Grok, X, And Cursor Into New Subscription Tiers"
+    },
+    "evt:97c6f4de72fc": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "OpenAI Test ‘Day-After’ Scenarios After Agents Escape Sandboxes"
+    },
+    "evt:2a768f8d69ae": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Artificial Intelligence (AI) course enrollments in South Africa rise 75%: Coursera’s Global Skills Report 2026"
+    },
+    "evt:83b4645c8384": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Naira projected to hold at N1,290–N1,370/$ this month"
+    },
+    "evt:d584b09db438": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "DeepSeek V4.1 Flash 1017: 45 puntos a US$0.30 el millón"
+    },
+    "evt:e648e9ca9eaa": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "口碑动力·AI市场部调查：企业为何在AI搜索中集体「隐身」？"
+    },
+    "evt:5cda7fe4ea93": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning"
+    },
+    "evt:b6128d3245f1": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To"
+    },
+    "evt:195fefbcf21d": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Not All Test-Time Compute Is Evidence: Model-Specific Bias in LLM Reasoning"
+    },
+    "evt:52d5ff4e8b33": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Rethinking GRPO for Large Reasoning Model Safety Alignment"
+    },
+    "evt:dc38a158ef4a": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Batched Contextual Reinforcement II: Does RLVR Need Long Rollout Windows?"
+    },
+    "evt:0415e898f9c3": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Gairdner Science Week 2026 Brings World-Leading Scientists to Toronto for Free Public Lectures"
+    },
+    "evt:6bb4f085aa72": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Former ARPA-H director Renee Wegrzyn wants to solve science’s ‘magic hands’ prob..."
+    },
+    "evt:96b3520107c0": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "AI companies want to become frontier scientific researchers"
+    },
+    "evt:b821b33d7fb2": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Meta and Google Launch Top-Tier AI, EU Initiates First Investigation Under AI Act | Generative AI Weekly Report, Week of 2026-10-12"
+    },
+    "evt:9b016051dbf3": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Using Alibaba as the underlying base, Tencent Hunyuan has achieved \"Small RSI\""
+    },
+    "evt:2fecf8decb57": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Akeso, Inc.: Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab"
+    },
+    "evt:18b8055aa2f7": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "How far can we push computing?"
+    },
+    "evt:f6d73ee876a4": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "TechCrunch Mobility: Rivian's next act | TechCrunch"
+    },
+    "evt:747baa974c03": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "TechCrunch Disrupt 2026: Day 1"
+    },
+    "evt:853fe7d5a806": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "AI startup bots have wasted 17 years of scammers' time — now the company is brin..."
+    },
+    "evt:17df9da34e4d": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "MEET2026智能未来大会"
+    },
+    "evt:ad7bf36191fa": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "AI-powered hackers target over 1,200 websites in automated cyberattacks: Report"
+    },
+    "evt:6cbe20c0b7a9": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Cybersecurity Stocks Retreat From Record Highs — Citi Raises CRWD, PANW, ZS Targ..."
+    },
+    "evt:1ee483b7d1d5": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More"
+    },
+    "evt:6303c78d987c": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "GoTo releases Indonesian language model"
+    },
+    "evt:f53bbfa466af": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "Nvidia launches open models for enterprise agents and PCs"
+    },
+    "evt:e7da9d5c1621": {
+      "first_seen_week": "2026-W43",
+      "last_seen_week": "2026-W43",
+      "title": "MiniMax quietly launches M3.1-Flash after weeks as a mystery Space Bunny model"
     }
   }
 }

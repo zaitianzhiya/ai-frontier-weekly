@@ -502,7 +502,7 @@
     },
     "evt:936bbf5c1b99": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W43",
+      "last_seen_week": "2026-W44",
       "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats"
     },
     "evt:08473c4763da": {
@@ -1164,6 +1164,216 @@
       "first_seen_week": "2026-W43",
       "last_seen_week": "2026-W43",
       "title": "MiniMax quietly launches M3.1-Flash after weeks as a mystery Space Bunny model"
+    },
+    "evt:2e2fcec7e632": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "OpenAI's new model is revealed: Has GPT-6.1 Terra surpassed the flagship?"
+    },
+    "evt:5c10a3a71144": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "PixVerse and OpenAI Collaborate on \"Prompt to Production\", a New Learning Initiative for AI-Powered Creative Workflows"
+    },
+    "evt:0d6b19707c97": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "OpenAI to Require Approval for AI Gateways Starting Nov. 20"
+    },
+    "evt:3882f7729499": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo..."
+    },
+    "evt:3bc5b49f5bce": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Anthropic's IPO: What Its S-1 Reveals About The AI Boom"
+    },
+    "evt:1b48a4601bbc": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Anthropic IPO: AI giant is preparing for blockbuster stock listing. Here’s what ..."
+    },
+    "evt:b455a6357241": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Apologia mathematica: Does mathematical research still matter in an age of AI?"
+    },
+    "evt:2348f4f8fdc8": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Google DeepMind's Demis Hassabis predicts AGI by 2028"
+    },
+    "evt:2b7691fb99ee": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he..."
+    },
+    "evt:b175f35fe71c": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Moonshot AI Launches More Powerful Kimi Model"
+    },
+    "evt:00ee78bb99d1": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "You can trust Claude Duet as a drafter. But don't make the approval button your last line of defense."
+    },
+    "evt:b3b0923ba281": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Grok 4.7 recommends Republicans 92% of the time, while GPT-6.1 recommends Democrats 97% of the time in a U.S. midterm study."
+    },
+    "evt:55e2029852b3": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Planning to Buy Sports Headphones This Diwali? Shokz Unveils Festive Deals on Its Open-Ear Range"
+    },
+    "evt:e95160c87364": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "I get a notification every time I hit $100. After visualizing Cursor costs, my monthly bill dropped from $726 to about $160"
+    },
+    "evt:344f799db971": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Stop building agents that can’t change models"
+    },
+    "evt:ae5a33c83c80": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Les tokens IA fonctionnent déjà réellement on-chain, mais le marché utilise encore d'anciennes logiques de prix."
+    },
+    "evt:8222bb328399": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "...Explosive Conspiracy Theory Suggests China's MiniMax \"Sniped\" Artificial..."
+    },
+    "evt:903ae0bbf032": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Kimi K3.1 Pro scores 4th of 215 AI models; Moonshot scrubs cyberattack data before open weights"
+    },
+    "evt:1a03e7b0c91c": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "S&P 500 Outlook After October Selloff: Can Stocks Recover?"
+    },
+    "evt:e2b53699feb4": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "El reto del CFO, convertir la Inteligencia Artificial en valor para el negocio"
+    },
+    "evt:cb30b3379313": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "From Faulty Claims to Incorrect Patches: An Empirical Study of Task-Grounded Reasoning in Coding Agents"
+    },
+    "evt:9989b46331fe": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Shorter Is Not Cheaper: A Controlled Comparison of Declarative Animation Specifications and Free-Form Code for LLM-Generated Explanations"
+    },
+    "evt:4e8d6f53d182": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories"
+    },
+    "evt:31c9829e7cc8": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "PaperScorer: How Predictable Is Paper Acceptance?"
+    },
+    "evt:982a02acb703": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning"
+    },
+    "evt:5b66cdc2d18f": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "...Polynesian Founder Effects and Protective Variants in Twin Science and Nature..."
+    },
+    "evt:0e9714552bb0": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "AI eats science 1: the mathpocalypse"
+    },
+    "evt:5ba525d50382": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Single agent beats multi-agent teams on cost, speed, and quality: Anthropic"
+    },
+    "evt:8f2da1e9fc8c": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "AI beats human experts at research experiments: TasteVal benchmark confirms"
+    },
+    "evt:63fb9bccf056": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "MIT Technology Review"
+    },
+    "evt:72a4993a6d78": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "39 meta-analyses, 39 positive findings: An audit finds serious flaws in research on AI in education"
+    },
+    "evt:55dce063db78": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "How Autonomous AI Is Reshaping Biopharma Operations"
+    },
+    "evt:4b754752aece": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "The city that fought Flock"
+    },
+    "evt:75675cf46c55": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "AI in training connects to the outside internet, OpenAI moves training offline"
+    },
+    "evt:293f3f148111": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead"
+    },
+    "evt:a67f4afa8dbb": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Surprisingly, the GPU utilization rate of 79% of enterprises is less than half."
+    },
+    "evt:0bbef37a2dd2": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Die „faulen Kredite“ der Unternehmens-KI: GPUs verstauben, Tokens verbrennen Geld!"
+    },
+    "evt:479d296a25fc": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "NeoLab's first business model: reselling GPUs"
+    },
+    "evt:81c0a4e0f178": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "A Social Innovation and Entrepreneurship Speech: The AI Singularity Has Arrived"
+    },
+    "evt:996daeb1f9e0": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "GPT-6 treibt die Outfit-Blogger fast in den Wahnsinn…"
+    },
+    "evt:5f74dd29a0ad": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "A hobbyist project called CrowdGPT wants volunteers to train an AI model at home"
+    },
+    "evt:4dbfdb8fa5d0": {
+      "first_seen_week": "2026-W44",
+      "last_seen_week": "2026-W44",
+      "title": "Hobbyists Are Squeezing Trillion-Parameter AI Models Onto Laptops"
     }
   }
 }

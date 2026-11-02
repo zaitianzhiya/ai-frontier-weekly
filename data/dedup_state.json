@@ -197,7 +197,7 @@
     },
     "evt:ba2fb7e45b82": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W41",
+      "last_seen_week": "2026-W45",
       "title": "Reddit, Inc. (RDDT) Latest Stock News & Headlines - Yahoo Finance"
     },
     "evt:067250c9ba3b": {
@@ -347,7 +347,7 @@
     },
     "evt:e14c4a011dbc": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W40",
+      "last_seen_week": "2026-W45",
       "title": "What We Missed: Google Gemini Joins the AI Escape Party"
     },
     "evt:c7ab488f4a16": {
@@ -962,7 +962,7 @@
     },
     "evt:993bad0842a6": {
       "first_seen_week": "2026-W42",
-      "last_seen_week": "2026-W42",
+      "last_seen_week": "2026-W45",
       "title": "Hugging Face Hack: Lessons for Cyber Defenders"
     },
     "evt:7107a4130ad5": {
@@ -1374,6 +1374,236 @@
       "first_seen_week": "2026-W44",
       "last_seen_week": "2026-W44",
       "title": "Hobbyists Are Squeezing Trillion-Parameter AI Models Onto Laptops"
+    },
+    "evt:d5c8fed74def": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch"
+    },
+    "evt:1853b0e5c637": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "【AI Weekly Report 10/26~11/1】Claude's Ultra removes 5-hour limit, Alphabet sees largest drop since IPO"
+    },
+    "evt:344e69842045": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Anthropic debt now priced at junk after Blackstone reverses investment-grade guidance"
+    },
+    "evt:86335ef227be": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Anthropic's message threads let Claude agents skip resending chats"
+    },
+    "evt:c68540b9cc9d": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched"
+    },
+    "evt:7dc1017d6ca2": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings"
+    },
+    "evt:0ef46b4a387c": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Gemini 4 Carbon: el modelo de Google para ciberdefensa"
+    },
+    "evt:c39e2335c135": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Google DeepMind's Alexandre Moufarek on AI and Gaming"
+    },
+    "evt:213be9a71ff1": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Google's first orbital AI writes a haiku as the data-center race moves to space"
+    },
+    "evt:8a7f106ac76b": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning"
+    },
+    "evt:6bb0ccda8e22": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Grok Bot Throttled After xAI Costs Outpaced Subscription Revenue"
+    },
+    "evt:62abb1dbd49c": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Elon Musk warns Grok Bot is too expensive to run: Calls compute costs..."
+    },
+    "evt:871e4c45baf5": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Musk is throttling Grok because its cost is 'unsustainably high'"
+    },
+    "evt:0c9ddf705359": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "AI Model Cost Statistics: Training, Inference and Token Pricing"
+    },
+    "evt:ca7a3abbaf41": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Tsinghua study: AI coding agents cut costs 26% by rewriting their own scaffolding"
+    },
+    "evt:d2181ae7b2bc": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "$6.3 Billion Heist Shakes Crypto World as AI Offense and Defense Emerge as New Market Variable"
+    },
+    "evt:5ea528b393e4": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "PLLO presses DFA on trade, physicians"
+    },
+    "evt:9e33ca259ebc": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "CA upholds acquittal of 22 ‘Abu Sayyaf bandits’"
+    },
+    "evt:69bb8581e66e": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Trezor Safe 5 implant reported at CryptoBilis: who needs a new wallet now"
+    },
+    "evt:c8794e64b6af": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Q-Ball Intelligence launches to bring Predictive Intelligence into the AI era"
+    },
+    "evt:7d76004fff41": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Options traders are seizing control of the S&P 500"
+    },
+    "evt:21ec9e029895": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Apple's (AAPL) Earnings Report May Impact Market Sentiment"
+    },
+    "evt:3ca4dea1b60d": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "役に立つ計算はすべて機械にくれてやれ！モラベックのパラドックスが暴く「人間最後の砦」"
+    },
+    "evt:76f7343369b3": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "很多人担心“AI大规模失业”，却没发现算力投资才是其根源"
+    },
+    "evt:e54dc0e64b69": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "RECAST: REconstruction of Chain-of-Thought via Auditable Structured Traces"
+    },
+    "evt:e9d15e9d3a63": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Does Reasoning Make Language Models Agree?"
+    },
+    "evt:5e1aac7cce8a": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training"
+    },
+    "evt:7a54362007d4": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Latent Decision Flow Rewards for Clinical Guideline Reasoning"
+    },
+    "evt:febb26f81e57": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models"
+    },
+    "evt:8f272f2c0973": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "New Quantum Storage Breakthrough Achieved by Manipulating Nuclear Spin Directly"
+    },
+    "evt:a927b2f8a442": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Midterm outcomes will affect science policy"
+    },
+    "evt:ab4ad2062378": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Pivot Bio CTO Travis Frey Highlights Farmer-Driven Innovation at Danforth Plant Science Center"
+    },
+    "evt:19b7bab2840d": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Who gets to check the AI giants? A new group wants to set the rules"
+    },
+    "evt:ae18117fe278": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "OpenAI LifeVal Explained: Can AI Actually Make Everyday Life Easier?"
+    },
+    "evt:24f0d0d8ccd4": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Computer scientists warn AI made decades of research irrelevant"
+    },
+    "evt:77f569480c20": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "How to write 'No AI training' in one line: What site operators and note creators should decide now regarding the common robots.txt signal from OpenAI, Google, Microsoft, and ..."
+    },
+    "evt:cc1b3e0fb4db": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "AI’s new opt-out signal is not an off switch for scraping"
+    },
+    "evt:dc2ed9a0020e": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here"
+    },
+    "evt:8d71359a28e5": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs |..."
+    },
+    "evt:f7f940919c71": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out |..."
+    },
+    "evt:ec9c3b47a52f": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Elon Musk poaches Jenny Wen, the top \"product brain\" behind Claude"
+    },
+    "evt:5e927926e70e": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "AP News Summary at 1:03 p.m. EST"
+    },
+    "evt:98535868631b": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "A Samsung smart TV security report makes some worrying privacy claims about the ..."
+    },
+    "evt:b407e06ee93e": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Bloom Energy Corporation (BE)"
+    },
+    "evt:be42d69de775": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Calix releases communications language model on Hugging Face"
+    },
+    "evt:fcecf481ecff": {
+      "first_seen_week": "2026-W45",
+      "last_seen_week": "2026-W45",
+      "title": "Mistral’s 1-Trillion-Parameter Le Chonk Checkpoint Lands on Hugging Face"
     }
   }
 }

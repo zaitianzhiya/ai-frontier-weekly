@@ -172,7 +172,7 @@
     },
     "evt:d4842f64c687": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W46",
+      "last_seen_week": "2026-W47",
       "title": "Artificial Intelligence"
     },
     "evt:d4b18514da71": {
@@ -502,7 +502,7 @@
     },
     "evt:936bbf5c1b99": {
       "first_seen_week": "2026-W40",
-      "last_seen_week": "2026-W46",
+      "last_seen_week": "2026-W47",
       "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats"
     },
     "evt:08473c4763da": {
@@ -962,7 +962,7 @@
     },
     "evt:993bad0842a6": {
       "first_seen_week": "2026-W42",
-      "last_seen_week": "2026-W45",
+      "last_seen_week": "2026-W47",
       "title": "Hugging Face Hack: Lessons for Cyber Defenders"
     },
     "evt:7107a4130ad5": {
@@ -1784,6 +1784,261 @@
       "first_seen_week": "2026-W46",
       "last_seen_week": "2026-W46",
       "title": "AI Has A Trust Problem. The Answer Is In The Chip"
+    },
+    "evt:739a30d6c0e8": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "GPT-6.2 has encountered major development hurdles, and OpenAI is getting spooked."
+    },
+    "evt:81f0ede1cc9e": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "OpenAI Postpones Release of GPT-6.1 Astra—An Era Where Safety Tests Determine Launch Dates [Shige News]"
+    },
+    "evt:6a31db6d1a2e": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "OpenAI launches ChatGPT wallet: Face ID approval is sole human check on AI agent card payments"
+    },
+    "evt:ca20010d0d7c": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "AI supremacy is not determined by performance alone—Google's offensive, Anthropic's IPO, and OpenAI's next move"
+    },
+    "evt:35e6617765c5": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Alibaba Launches Qwen4-Max AI Model, Claims Performance Rivaling OpenAI and Anthropic"
+    },
+    "evt:5cac4910022b": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "AMD Shares Before Nvidia Reports: Anthropic Says Claude Ran on AMD Chips in About 3 Days"
+    },
+    "evt:1755705f023e": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Google says an AI framework turned security patches into exploits with no human..."
+    },
+    "evt:c3fed7847ab3": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Google's new AI tool just proved Signal encryption really works - here's how -..."
+    },
+    "evt:accb7c78c01b": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software"
+    },
+    "evt:21bff477c52a": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Google Smart Glasses Undercut Ray-Ban Meta Gen 3 At $395"
+    },
+    "evt:1dbfa6af70db": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "What Nvidia scandal means for sports: AI slowdown wouldn't be all bad"
+    },
+    "evt:eb0e05fbe28c": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "AI-written patches are becoming attack maps for hackers"
+    },
+    "evt:5311145ba14e": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It"
+    },
+    "evt:5f9f1a653bf6": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Is Grok Losing the AI Race? Elon Musk Says Claude is Better “For Now”"
+    },
+    "evt:8c9cc2a9f914": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "China’s LineShine remains world’s fastest supercomputer"
+    },
+    "evt:04ecfa3496f1": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Ranked: Countries Gaining and Losing AI Talent"
+    },
+    "evt:c67d5aaa3025": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "World Bank, ITU: Digital ID cannot yet establish what AI agents are authorized to do"
+    },
+    "evt:8a4b965d3ecd": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Analysis-AI selloff has investors scrambling to measure their true exposure"
+    },
+    "evt:9a1b30a11027": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "What's going on with Broadcom stock Monday?"
+    },
+    "evt:59ebaac0299d": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Alibaba’s New AI Model Is Two-Thirds Cheaper. What Does It Mean for the Stock?"
+    },
+    "evt:855e8f356850": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Stanford AI researchers launch Noeri with $110 million"
+    },
+    "evt:123a241d743d": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "The Week Ahead in AI: The Push for Jenson Huang’s Return, AI Distrust, Protecting AI Supply Chains from China, Plus Upcoming Nvidia Earnings"
+    },
+    "evt:869abe1f3efa": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots"
+    },
+    "evt:874778bf501b": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Who Counts as Exposed? Measurement Choices in an Open, Re-estimable Index of Occupational AI Exposure"
+    },
+    "evt:21e2689e78b1": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Reasoning Models Confabulate to Defend Injected Beliefs About Their Own Requests"
+    },
+    "evt:7b26a5ff3a60": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners"
+    },
+    "evt:87a6081c8901": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Privileged Information Does Not Guarantee Privileged Guidance: Auditing On-Policy Self-Distillation for Reasoning Models"
+    },
+    "evt:4e10433ff09b": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Indiana University Expands National Security Research Partnerships"
+    },
+    "evt:0a21d26507e2": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy"
+    },
+    "evt:a6cfd44a2857": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "AI eats science 4: lab work"
+    },
+    "evt:d6b076dff352": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work"
+    },
+    "evt:e02895a808f7": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "OpenAI Signs Four Independent Assessors for Embedded Safety Reviews"
+    },
+    "evt:75e8454bcd20": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "2026 College Football Power Index - ESPN"
+    },
+    "evt:159e4e28c05d": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Dr. Robert Langer, Co-Founder of Moderna, Joins PolarityBio’s Board of Directors"
+    },
+    "evt:1314849ad666": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "ASML Investors Face Two Very Different Kinds of Noise"
+    },
+    "evt:ac87633caa25": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Noeri Launches with $110M to Empower Companies to Build and Own Their AI"
+    },
+    "evt:fcbceb52a914": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Big American Corporations Burning 5 Trillion Yen on Movies and 110 Trillion Yen on AI—Who Is Actually the Smartest?"
+    },
+    "evt:6fcabcfb3bcb": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "L'Oréal and Estée Lauder bet on skincare that claims to change aging at the cellular level"
+    },
+    "evt:c7bb8069dbae": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "How China's free AI models threatened America's trillion-dollar technology investments"
+    },
+    "evt:c562a987ff29": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Indian startup Bharat Semi bags Rs 215 crore, will now develop next-gen AI chips for global markets"
+    },
+    "evt:6639a1de6992": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders..."
+    },
+    "evt:ef3512e61f8e": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry"
+    },
+    "evt:a520695a3551": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "리무, 에이모션 CTO 합류 보도…‘산업급 세계 모델’ 개발 구상"
+    },
+    "evt:7920a6bebda7": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Christopher Manning: „Das ist eine noch schlimmere Betrugsmasche“"
+    },
+    "evt:928379dfc19a": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "GPT-6.2 has encountered major development hurdles, and OpenAI is getting spooked."
+    },
+    "evt:481b6af81078": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Der im Ausland durch die Decke gegangene Aufnahme-Verfolgungsroboter ist im Inland ab sofort als Lagerware zum Verkauf erhältlich."
+    },
+    "evt:a76ce8ee3a62": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "$2M grant targets student childcare costs for Palm Beach State College parents"
+    },
+    "evt:0ac580704d11": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Island Fin Poke to close due to financial struggles"
+    },
+    "evt:ffccf19208aa": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "Your Money, Their Medicine: Part 1"
+    },
+    "evt:f27b002dbe50": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "California sues OpenAI over rogue AI hack of Hugging Face"
+    },
+    "evt:a1c299520913": {
+      "first_seen_week": "2026-W47",
+      "last_seen_week": "2026-W47",
+      "title": "AI Companies Develop Decision Models to Avoid Hallucinations"
     }
   }
 }

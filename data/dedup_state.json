@@ -172,7 +172,7 @@
     },
     "evt:d4842f64c687": {
       "first_seen_week": "2026-W39",
-      "last_seen_week": "2026-W47",
+      "last_seen_week": "2026-W48",
       "title": "Artificial Intelligence"
     },
     "evt:d4b18514da71": {
@@ -2039,6 +2039,251 @@
       "first_seen_week": "2026-W47",
       "last_seen_week": "2026-W47",
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations"
+    },
+    "evt:1613bc90e458": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews"
+    },
+    "evt:068eedfcf1db": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "OpenAI releases its updated GPT-6.2 Astra model."
+    },
+    "evt:b2f4f3db25d5": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "OpenAI Releases GPT-6.2 Astra With First High Self-Improvement Rating"
+    },
+    "evt:fa834365165d": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Anthropic’s Record IPO Made 2 Rivals $260 Billion Richer. What Amazon and Google..."
+    },
+    "evt:0ff4410964db": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Why Jensen Huang's Nvidia Return Could Hurt Anthropic Stock"
+    },
+    "evt:49ddfac361d6": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Anthropic Is Worth $1.2 Trillion. Is It a Better Buy Than Nvidia? | The Motley..."
+    },
+    "evt:7571b643b540": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Google DeepMind Agent Teams Discover Lean-Verified Quantum Algorithms"
+    },
+    "evt:7bfff633f5ee": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Why Anthropic’s Math Breakthrough Matters; Why Palo Alto Networks Bought Applied Compute"
+    },
+    "evt:6a5f2f7ba082": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical..."
+    },
+    "evt:260ef165a173": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Google AI Glasses vs. Ray-Ban Meta Gen 3: Which Should You Buy?"
+    },
+    "evt:bc996149da46": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Meta AI Chief Warns Superintelligence Is Arriving as Anthropic C"
+    },
+    "evt:86a995fb4efb": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Meta Plans $300 Price Tag and Free 5G for Muse Charm AI Device | PYMNTS.com"
+    },
+    "evt:550873e0b305": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Lawsuits allege Musk’s Grok AI had 'spicy mode' built to produce nudity"
+    },
+    "evt:c40185057850": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model"
+    },
+    "evt:021a42d19bcb": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "States sue Musk firms over Grok's alleged generation of sexualized images"
+    },
+    "evt:ced0a2379779": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Sarvam AI faces questions over translating funding into frontier AI capabilities"
+    },
+    "evt:8676d8edfb76": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Les agents d'OpenAI surveillent mieux les entraînements qu'ils ne codent"
+    },
+    "evt:440eb4be5e6e": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "What a Five-Person Studio Learned When Agents Started Writing the Code"
+    },
+    "evt:27ea3cb1c243": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Hugging Face publica guía para evaluar agentes de IA"
+    },
+    "evt:483d4a9ff7ca": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Gemini 4 Neon Delivers Small Intelligence Gain at Lower Cost Per Task"
+    },
+    "evt:3a0e0b784ead": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a..."
+    },
+    "evt:33248fc26d67": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Why is ARM stock surging on Monday?"
+    },
+    "evt:9dc68b4119b3": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "8 reasons India’s over $67 bn AI bet could outpace frontier chipmakers"
+    },
+    "evt:c16249df215f": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "ガレージから大企業を作れたアメリカは、もう存在しないのか？AIバブルとエリート過剰生産――アメリカンドリームの終わりを ..."
+    },
+    "evt:479a9f934185": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Lava Security Benchmarks Open AI Models for Security Analysis"
+    },
+    "evt:80285c8327e0": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Beyond Math, Code, and Logic: Do Reasoning Models Transfer to Scientific Argumentation?"
+    },
+    "evt:30078056e963": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Neural variational Skyrmions as a topological benchmark: emergent symmetry, precision energies and KAN--MLP comparison"
+    },
+    "evt:9c7a79ff876c": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance"
+    },
+    "evt:92fd3703032e": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Disentangling Verbalized Evaluation Awareness and Refusal through Neuron-Level Intervention"
+    },
+    "evt:085f8180941b": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference"
+    },
+    "evt:101c8d243f95": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Researchers Using AI Machine Learning To Solve Human Emotion Mysteries Must..."
+    },
+    "evt:bf923dcc20ff": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Research News"
+    },
+    "evt:dedb554c6b6a": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Newer AI models are swearing more, and it usually means they're failing"
+    },
+    "evt:2de2d3fd6058": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Google Gemini’s neon model excels in enterprise and scientific tasks"
+    },
+    "evt:12f0317cfe55": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Formation Metals Confirms Gold Continuity 200 Metres West of the Historical A-Zone with 1.18 g/t Au over 33 Metres, Including 7.79 g/t Au over 2.8 Metres, at the Advanced N2 ..."
+    },
+    "evt:1e437031b8de": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "AI and Jobs in 2026 — Hiring Is Changing Before Headcount"
+    },
+    "evt:1693104d0495": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Mitratech Holdings Inc.: Mitratech Brings ARIES to OpenAI's ChatGPT, Extending Legal Matters, Spend, and Tasks into Customers' Everyday AI Workflows"
+    },
+    "evt:eb969b6015e3": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat"
+    },
+    "evt:fce7bf210903": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Episode 5: The Correct Answer for a Cleaner Who Doesn't Deliver Bento Boxes — Why 'Good-Faith Business Partnerships' Collapse in 3 Days"
+    },
+    "evt:46cf0500cacd": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Fast-casual version of Benihana may arrive to your neighborhood soon"
+    },
+    "evt:9cd0fc2778a7": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’"
+    },
+    "evt:b2a5ad79634e": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "No college degree, USD 6 billion startup founder: Meet 27-year-old Isaiah Taylor using nuclear energy to power Nvidia AI"
+    },
+    "evt:25da9a0e3025": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips"
+    },
+    "evt:8e40016c2554": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses"
+    },
+    "evt:c8f008874fec": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Scammers are sending fake emails to people worried about Nvidia's stock"
+    },
+    "evt:385848347466": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Exclusive: Bots amplified conspiracy theories and panic about recent tech..."
+    },
+    "evt:326487074397": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Cyber attack hits 178 major websites: Full list of organizations"
+    },
+    "evt:8d9de381c075": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Ant Group Open-Sources Its Medical AI: What the LingSante Release Means for Your Hardware and Health Apps"
+    },
+    "evt:98f3bccf6392": {
+      "first_seen_week": "2026-W48",
+      "last_seen_week": "2026-W48",
+      "title": "Baseten Releases bison-1 and groundhog-1, Two Gemma 4 Decision Models"
     }
   }
 }
